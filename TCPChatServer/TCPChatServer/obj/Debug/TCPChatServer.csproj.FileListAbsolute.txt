@@ -1,0 +1,30 @@
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.AssemblyReference.cache
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Form1.resources
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.cache
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.CoreCompileInputs.cache
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+D:\STUDY\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.AssemblyReference.cache
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Form1.resources
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.cache
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.CoreCompileInputs.cache
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+D:\hoc_SOCKET\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe.config
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.exe
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\bin\Debug\TCPChatServer.pdb
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.AssemblyReference.cache
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Form1.resources
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.Properties.Resources.resources
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.GenerateResource.cache
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.exe
+C:\Users\LAPTOP T&T\Desktop\DAMH_LTM\TCPChatServer\TCPChatServer\obj\Debug\TCPChatServer.pdb
